@@ -1,0 +1,19 @@
+==================================================
+SALES ANALYSIS REPORT
+==================================================
+Total Records: 2975
+Date Range: 2025-01-01 to 2025-12-31
+Total Revenue: Rs 153,430,523
+Average Sale: Rs 51,573
+Median Sale: Rs 20,502
+
+Top 5 Products:
+Product
+Laptop          62189375.0
+Smartphone      31211267.0
+Study Desk      10782415.0
+Microwave        9848811.0
+Office Chair     7763304.0
+Name: Amount, dtype: float64
+
+Best Month: 2025-08
